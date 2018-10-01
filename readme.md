@@ -18,7 +18,7 @@ data is loaded by ../src/main/resources/data.sql
 
 ## Generate the token
 
-POST http://localhost:8080/GetToken
+POST http://localhost:8080/token
 {
     "clientId" : "",
     "Secret" : "base64EncodedText"
