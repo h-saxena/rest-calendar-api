@@ -1,7 +1,7 @@
 ## Start the application
---
+~~
 $mvn clean spring-boot:run
---
+~~
 
 ## API docs
 http://localhost:8080/v2/api-docs
